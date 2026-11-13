@@ -1,0 +1,229 @@
+{
+ "Aiken County Public School District": [
+  {
+   "name": "Kate Olin",
+   "email": "kolin@acpsd.net",
+   "status": "EA"
+  },
+  {
+   "name": "Leslie Fielder",
+   "email": "lesliedavis@acpsd.net",
+   "status": "EA"
+  }
+ ],
+ "Anderson School District Five": [
+  {
+   "name": "Stacy Porter",
+   "email": "stacyporter@anderson5.net",
+   "status": "EA"
+  },
+  {
+   "name": "Sherry Martin",
+   "email": "sherrymartin@anderson5.net",
+   "status": "EA"
+  }
+ ],
+ "Berkeley County School District": [
+  {
+   "name": "James Jackson",
+   "email": "jacksonj@bcsdschools.net",
+   "status": "EA"
+  },
+  {
+   "name": "Diane Driggers",
+   "email": "diane@bcsdschools.net",
+   "status": "EA"
+  }
+ ],
+ "Charleston County School District": [
+  {
+   "name": "Andrew Brandt",
+   "email": "andrew_brandt@charleston.k12.sc.us",
+   "status": "EA"
+  },
+  {
+   "name": "Xiushan Jiang",
+   "email": "xiushan_jiang@charleston.k12.sc.us",
+   "status": "EA"
+  }
+ ],
+ "Clarendon County School District": [
+  {
+   "name": "Ollie Canty",
+   "email": "ollie.canty@clarendoncsd.org",
+   "status": "Confirmed"
+  },
+  {
+   "name": "Jmettea Mcfadden",
+   "email": "jmettea.mcfadden@clarendoncsd.org",
+   "status": "Confirmed"
+  }
+ ],
+ "Dorchester County School District Two": [
+  {
+   "name": "Melissa Ruffalo",
+   "email": "mruffalo@dorchester2.k12.sc.us",
+   "status": "EA"
+  },
+  {
+   "name": "Danna Hay",
+   "email": "dhay@dorchester2.k12.sc.us",
+   "status": "EA"
+  }
+ ],
+ "Greenville County School District": [
+  {
+   "name": "Blake Jenkins",
+   "email": "bjenkins@greenville.k12.sc.us",
+   "status": "EA"
+  },
+  {
+   "name": "Jason McCreary",
+   "email": "jmccreary@greenville.k12.sc.us",
+   "status": "EA"
+  }
+ ],
+ "Greenwood School District 50": [
+  {
+   "name": "Zach Lloyd",
+   "email": "lloydz@gwd50.org",
+   "status": "EA"
+  }
+ ],
+ "Horry County Schools": [
+  {
+   "name": "Kelly Gurney",
+   "email": "kgurney@horrycountyschools.net",
+   "status": "EA"
+  },
+  {
+   "name": "Shelley Todd",
+   "email": "stodd@horrycountyschools.net",
+   "status": "EA"
+  }
+ ],
+ "Lancaster County School District": [
+  {
+   "name": "Blanche Baxley",
+   "email": "blanche.baxley@lcsd.k12.sc.us",
+   "status": "EA"
+  },
+  {
+   "name": "Benjy Bell",
+   "email": "benjy.bell@lcsd.k12.sc.us",
+   "status": "EA"
+  }
+ ],
+ "Lexington County School District One": [
+  {
+   "name": "Derek Berry",
+   "email": "dwberry@lexington1.net",
+   "status": "Confirmed"
+  }
+ ],
+ "Lexington-Richland School District Five": [
+  {
+   "name": "Brian Cope",
+   "email": "bcope@lexrich5.org",
+   "status": "EA"
+  }
+ ],
+ "Orangeburg County School District": [
+  {
+   "name": "Daphne Walley",
+   "email": "daphne.walley@ocsdsc.org",
+   "status": "Confirmed"
+  },
+  {
+   "name": "Jloundia Johnson",
+   "email": "jloundia.johnson@ocsdsc.org",
+   "status": "EA"
+  }
+ ],
+ "Pickens County School District": [
+  {
+   "name": "Carol Ellison",
+   "email": "carolellison@pickens.k12.sc.us",
+   "status": "EA"
+  },
+  {
+   "name": "Brenda Ellenburg",
+   "email": "brendaellenburg@pickens.k12.sc.us",
+   "status": "EA"
+  }
+ ],
+ "Richland County School District One": [
+  {
+   "name": "E. Jordan Slice-Metcalfe",
+   "email": "elizabeth.slice-metc@richlandone.org",
+   "status": "Confirmed"
+  },
+  {
+   "name": "Carol Miner",
+   "email": "carol.miner@richlandone.org",
+   "status": "EA"
+  }
+ ],
+ "Richland County School District Two": [
+  {
+   "name": "",
+   "email": "hnguyen@richland2.org",
+   "status": "Unverified"
+  }
+ ],
+ "Rock Hill Schools": [
+  {
+   "name": "Richard Camp",
+   "email": "rcamp@rhmail.org",
+   "status": "EA"
+  },
+  {
+   "name": "Timothy Allen",
+   "email": "tallen@rhmail.org",
+   "status": "EA"
+  }
+ ],
+ "South Carolina Public Charter School District": [
+  {
+   "name": "Cayce Kelly",
+   "email": "ckelly@sccharter.org",
+   "status": "EA"
+  },
+  {
+   "name": "Tina Scott",
+   "email": "tscott@sccharter.org",
+   "status": "EA"
+  }
+ ],
+ "Spartanburg County School District Three": [
+  {
+   "name": "Holly Kelser",
+   "email": "hkesler@spartanburg3.org",
+   "status": "Confirmed"
+  }
+ ],
+ "Spartanburg County School District Two": [
+  {
+   "name": "Kenna Sanders",
+   "email": "kenna.sanders@spart2.org",
+   "status": "EA"
+  },
+  {
+   "name": "Jason Paddock",
+   "email": "jason.paddock@spart2.org",
+   "status": "EA"
+  }
+ ],
+ "Sumter County School District": [
+  {
+   "name": "Lesley Corner",
+   "email": "lesley.corner@sumterschools.net",
+   "status": "Confirmed"
+  },
+  {
+   "name": "Melissa Boyce",
+   "email": "melissa.boyce@sumterschools.net",
+   "status": "EA"
+  }
+ ]
+}
